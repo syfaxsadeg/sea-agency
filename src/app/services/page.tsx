@@ -34,6 +34,7 @@ export default function ServicesPage() {
   return (
     <PageTransition>
       <Script
+        id="schema-services"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         strategy="afterInteractive"

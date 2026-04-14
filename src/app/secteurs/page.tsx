@@ -49,6 +49,7 @@ export default function SecteursPage() {
   return (
     <PageTransition>
       <Script
+        id="schema-secteurs"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         strategy="afterInteractive"
