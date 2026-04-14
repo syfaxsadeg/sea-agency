@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t1",
+    "initials": "M.D.",
+    "sector": "E-commerce",
+    "location": "Paris",
+    "quote": "Notre retour sur investissement publicitaire a été multiplié en quelques mois. L'équipe est réactive, transparente et force de proposition.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "initials": "J.P.",
+    "sector": "Immobilier",
+    "location": "Île-de-France",
+    "quote": "Leur expertise en ciblage géographique a transformé notre acquisition de leads. Les campagnes sont structurées et performantes. Nous recommandons vivement.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "initials": "L.M.",
+    "sector": "Hôtellerie",
+    "location": "Lyon",
+    "quote": "Les réservations ont augmenté sensiblement depuis le lancement de nos campagnes Google Ads. Une agence qui comprend vraiment notre secteur.",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "initials": "S.B.",
+    "sector": "Services B2B",
+    "location": "Bordeaux",
+    "quote": "Enfin une agence qui prend le temps de comprendre notre stratégie commerciale et qui livre des résultats mesurables. Excellent rapport qualité-prix.",
+    "rating": 5
+  },
+  {
+    "id": "t5",
+    "initials": "C.R.",
+    "sector": "Santé",
+    "location": "Marseille",
+    "quote": "Ils ont mis en place des campagnes conformes à notre secteur avec une vraie expertise. Les rendez-vous générés sont de très bonne qualité.",
+    "rating": 5
+  }
+]

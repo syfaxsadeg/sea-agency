@@ -1,0 +1,80 @@
+[
+  {
+    "id": "google-ads-search",
+    "title": "Google Ads Search",
+    "subtitle": "Captez les intentions d'achat",
+    "description": "Vos annonces apparaissent en tête des résultats Google au moment précis où vos prospects recherchent vos produits ou services. Nous structurons vos campagnes pour maximiser chaque euro investi et transformer les clics en clients.",
+    "benefits": [
+      "Ciblage par mots-clés à haute intention",
+      "Optimisation du Quality Score",
+      "Stratégies d'enchères automatisées",
+      "A/B testing permanent des annonces"
+    ],
+    "icon": "Search"
+  },
+  {
+    "id": "google-shopping",
+    "title": "Google Shopping",
+    "subtitle": "Visibilité maximale pour vos produits",
+    "description": "Mettez en avant vos produits sur Google Shopping avec des fiches produit optimisées, des images attrayantes et un flux de données structuré. Notre gestion garantit une meilleure visibilité et un coût d'acquisition réduit pour les e-commerçants.",
+    "benefits": [
+      "Optimisation des flux de produits",
+      "Amélioration du taux de conversion",
+      "Gestion des enchères par catégorie",
+      "Suivi détaillé des performances produits"
+    ],
+    "icon": "ShoppingCart"
+  },
+  {
+    "id": "google-display",
+    "title": "Google Display Network",
+    "subtitle": "Construisez votre image de marque",
+    "description": "Touchez votre audience à travers un réseau de plus de deux millions de sites partenaires avec des bannières visuelles percutantes. Nos campagnes display renforcent votre notoriété et créent une présence digitale cohérente.",
+    "benefits": [
+      "Ciblage comportemental et contextuel avancé",
+      "Créations visuelles optimisées pour tous formats",
+      "Remarketing pour réengager vos visiteurs",
+      "Rapports détaillés sur la portée et l'impact"
+    ],
+    "icon": "Image"
+  },
+  {
+    "id": "youtube-ads",
+    "title": "Campagnes YouTube",
+    "subtitle": "Engagez votre audience en vidéo",
+    "description": "Diffusez vos messages sur la plus grande plateforme vidéo mondiale. Nos stratégies YouTube combinent formats in-stream, discovery et action pour maximiser l'engagement et les conversions de votre audience.",
+    "benefits": [
+      "Formats publicitaires diversifiés (in-stream, bumper, discovery)",
+      "Ciblage par intérêts et comportements",
+      "Optimisation des appels à l'action",
+      "Mesure précise de l'engagement vidéo"
+    ],
+    "icon": "Play"
+  },
+  {
+    "id": "social-ads",
+    "title": "Publicités Réseaux Sociaux",
+    "subtitle": "Connectez-vous où est votre audience",
+    "description": "Campagnes payantes sur Meta (Facebook, Instagram), LinkedIn, TikTok et autres réseaux. Nous créons des messages ciblés qui résonnent avec votre audience et génèrent des actions directs.",
+    "benefits": [
+      "Ciblage démographique et psychographique fin",
+      "Créations adaptées à chaque plateforme",
+      "Gestion du budget multi-plateforme",
+      "Optimisation des taux de conversion"
+    ],
+    "icon": "Share2"
+  },
+  {
+    "id": "audit-seo-sea",
+    "title": "Audit & Stratégie SEA/SEO",
+    "subtitle": "Fondations solides pour votre visibilité",
+    "description": "Analyse approfondie de votre positionnement actuel, de votre architecture digitale et des opportunités manquées. Nous élaborons une stratégie intégrée SEA/SEO pour maximiser votre retour sur investissement global.",
+    "benefits": [
+      "Diagnostic complet de votre visibilité",
+      "Analyse concurrentielle détaillée",
+      "Recommandations prioritaires et actionnables",
+      "Feuille de route stratégique personnalisée"
+    ],
+    "icon": "BarChart3"
+  }
+]

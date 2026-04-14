@@ -1,0 +1,22 @@
+[
+  {
+    "value": "98%",
+    "label": "Clients satisfaits",
+    "description": "De nos clients renouvellent leur confiance"
+  },
+  {
+    "value": "Des centaines",
+    "label": "Campagnes actives",
+    "description": "De campagnes optimisées chaque mois"
+  },
+  {
+    "value": "<24h",
+    "label": "Temps de réponse",
+    "description": "Pour vos questions et demandes"
+  },
+  {
+    "value": "Certifié",
+    "label": "Google Partner",
+    "description": "Agence partenaire agréée de Google"
+  }
+]

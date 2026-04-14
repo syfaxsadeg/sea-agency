@@ -1,0 +1,72 @@
+[
+  {
+    "id": "immobilier",
+    "title": "Immobilier",
+    "description": "Programmes neufs, agences immobilières, promoteurs : générez des leads qualifiés pour vos biens avec un ciblage géographique précis et des annonces adaptées au cycle d'achat immobilier.",
+    "keywords": ["promotion immobilière", "agence immobilière Google Ads", "leads immobilier"],
+    "icon": "Building2"
+  },
+  {
+    "id": "e-commerce",
+    "title": "E-commerce",
+    "description": "Boutiques en ligne, marketplaces, distributeurs : augmentez votre trafic qualifié et vos ventes avec Google Shopping, Search et Display optimisés pour la conversion.",
+    "keywords": ["vente en ligne", "Google Shopping", "trafic e-commerce"],
+    "icon": "ShoppingCart"
+  },
+  {
+    "id": "hotellerie-restauration",
+    "title": "Hôtellerie & Restauration",
+    "description": "Hôtels, restaurants, bars : générez des réservations et des visites en capturant la demande locale et en mettant en avant votre expérience culinaire ou votre accueil.",
+    "keywords": ["réservation hôtel", "restaurants Google Ads", "tourisme local"],
+    "icon": "UtensilsCrossed"
+  },
+  {
+    "id": "sante",
+    "title": "Santé & Bien-être",
+    "description": "Cliniques, cabinets médicaux, centres de bien-être : attirez de nouveaux patients avec un ciblage conforme aux régulations du secteur et des annonces de confiance.",
+    "keywords": ["cabinets médicaux", "cliniques Google Ads", "prise de rendez-vous santé"],
+    "icon": "Heart"
+  },
+  {
+    "id": "services-domicile",
+    "title": "Services à Domicile",
+    "description": "Plombiers, électriciens, serruriers, nettoyage : captez les demandes d'urgence et les projets planifiés dans votre zone d'intervention avec un ciblage local performant.",
+    "keywords": ["plombier Google Ads", "électricien", "services urgents"],
+    "icon": "Wrench"
+  },
+  {
+    "id": "formation-education",
+    "title": "Formation & Éducation",
+    "description": "Centres de formation, écoles de langues, organismes de certification : attirez des étudiants qualifiés et augmentez les inscriptions avec des campagnes ciblées et persuasives.",
+    "keywords": ["formation professionnelle", "écoles en ligne", "certification Google Ads"],
+    "icon": "BookOpen"
+  },
+  {
+    "id": "btob-saas",
+    "title": "B2B & SaaS",
+    "description": "Logiciels, plateformes, services professionnels : générez des leads qualifiés pour votre équipe commerciale avec un ciblage sophistiqué et des messages orientés valeur métier.",
+    "keywords": ["logiciels B2B", "SaaS Google Ads", "leads professionnels"],
+    "icon": "Briefcase"
+  },
+  {
+    "id": "automobile",
+    "title": "Automobile",
+    "description": "Concessionnaires, carrossiers, services automobiles : attirez des clients pour l'achat, la révision ou la réparation de véhicules avec un ciblage adapté à chaque étape du parcours.",
+    "keywords": ["concessionnaire automobile", "garage Google Ads", "vente voitures"],
+    "icon": "Car"
+  },
+  {
+    "id": "juridique",
+    "title": "Services Juridiques",
+    "description": "Cabinets d'avocats, notaires, experts-comptables : générez des instructions et des clients avec un positionnement d'expertise reconnu et des annonces conformes aux codes professionnels.",
+    "keywords": ["avocat Google Ads", "cabinet juridique", "consultation légale"],
+    "icon": "Scale"
+  },
+  {
+    "id": "beaute-bien-etre",
+    "title": "Beauté & Bien-être",
+    "description": "Salons de coiffure, spas, instituts : boostez vos réservations et fidélisez votre clientèle avec des campagnes mettant en avant votre atmosphère et vos services premium.",
+    "keywords": ["salon de coiffure", "spa Google Ads", "institut beauté"],
+    "icon": "Sparkles"
+  }
+]

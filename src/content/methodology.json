@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Audit Stratégique",
+    "description": "Analyse complète de votre présence digitale, de vos concurrents et de votre marché. Nous identifions les opportunités manquées et définissons vos objectifs de performance avec précision.",
+    "icon": "ClipboardCheck"
+  },
+  {
+    "step": 2,
+    "title": "Structuration & Stratégie",
+    "description": "Élaboration d'une stratégie personnalisée adaptée à votre secteur d'activité. Nous créons une architecture de campagnes solide, définissons les mots-clés prioritaires et établissons vos KPIs.",
+    "icon": "Lightbulb"
+  },
+  {
+    "step": 3,
+    "title": "Déploiement & Lancement",
+    "description": "Mise en place intégrale de vos campagnes avec un respect pointilleux des bonnes pratiques. Annonces rédigées, groupes d'annonces structurés, extensions activées et suivi configuré dès le départ.",
+    "icon": "Rocket"
+  },
+  {
+    "step": 4,
+    "title": "Optimisation Continue",
+    "description": "Monitoring quotidien de vos performances. Ajustements réguliers des enchères, améliorations des annonces, élargissement ou restriction des audiences pour maximiser votre ROI.",
+    "icon": "Zap"
+  },
+  {
+    "step": 5,
+    "title": "Reporting & Scaling",
+    "description": "Rapports détaillés et transparents chaque mois. Analyse des résultats, recommandations d'amélioration et stratégies de scaling pour multiplier votre visibilité et votre chiffre d'affaires.",
+    "icon": "TrendingUp"
+  }
+]
