@@ -10,12 +10,6 @@ export const metadata: Metadata = generatePageMetadata({
   path: "/mentions-legales",
 });
 
-export const robots = {
-  index: false,
-  follow: false,
-  nocache: true,
-};
-
 export default function MentionsLegalesPage() {
   return (
     <PageTransition>
