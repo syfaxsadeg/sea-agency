@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Mail, Phone, MapPin, Linkedin, Twitter } from "lucide-react";
+import { Mail, Phone, MapPin, Linkedin, Instagram } from "lucide-react";
 import { SITE_CONFIG } from "@/lib/constants";
 
 export default function Footer() {
@@ -134,7 +134,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href={SITE_CONFIG.socialLinks.linkedin}
+                href={SITE_CONFIG.social.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#A3A3A3] hover:text-[#FF6B2C] transition-colors"
@@ -142,12 +142,12 @@ export default function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href={SITE_CONFIG.socialLinks.twitter}
+                href={SITE_CONFIG.social.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#A3A3A3] hover:text-[#FF6B2C] transition-colors"
               >
-                <Twitter className="w-5 h-5" />
+                <Instagram className="w-5 h-5" />
               </a>
             </div>
           </div>
