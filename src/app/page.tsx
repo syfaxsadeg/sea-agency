@@ -1,43 +1,33 @@
 import { Metadata } from "next";
-import { generatePageMetadata, generateLocalBusinessSchema, generateOrganizationSchema } from "@/lib/metadata";
-import { SITE_CONFIG } from "@/lib/constants";
-import PageTransition from "@/components/animations/PageTransition";
 import Hero from "@/components/sections/Hero";
 import Stats from "@/components/sections/Stats";
 import Sectors from "@/components/sections/Sectors";
-import Services from "@/components/sections/Services";
 import Methodology from "@/components/sections/Methodology";
 import Testimonials from "@/components/sections/Testimonials";
 import CTASection from "@/components/sections/CTASection";
+import PageTransition from "@/components/animations/PageTransition";
+import { generatePageMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = generatePageMetadata({
-  title: "SEA Agency | Agence Google Ads Paris — Experts Certifiés",
-  description:
-    "Agence Google Ads certifiée à Paris. Experts SEA, nous créons et optimisons vos campagnes pour maximiser votre ROI. Audit gratuit, résultats prouvés.",
+  title: "Agence Google Ads Paris — Experts SEA & Référencement Payant",
+  description: "Agence Google Ads à Paris spécialisée en SEA et publicité numérique. Nos experts optimisent vos campagnes Google Ads pour augmenter vos conversions et votre ROI. Audit gratuit sans engagement.",
   path: "/",
 });
 
-export default function Home() {
-  const localBusinessSchema = generateLocalBusinessSchema();
-  const organizationSchema = generateOrganizationSchema();
-
+export default function HomePage() {
   return (
     <PageTransition>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-      />
       <Hero />
       <Stats />
       <Sectors />
-      <Services />
       <Methodology />
       <Testimonials />
-      <CTASection />
+      <CTASection
+        title="Prêt à booster vos conversions ?"
+        description="Recevez un audit gratuit de vos campagnes et découvrez comment optimiser votre stratégie SEA."
+        ctaText="Obtenir mon audit gratuit"
+        ctaHref="/audit-gratuit"
+      />
     </PageTransition>
   );
 }
